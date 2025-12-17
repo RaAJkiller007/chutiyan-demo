@@ -1,6 +1,5 @@
 # web technologies project
-new folder contain code 
-new folder 2 contains presentation 
-
-set D file contains exam file of 30 task 
+1. new folder contain code for mini project
+2. new folder 2 contains presentation and cetifications task
+3. set D file contains exam file of 30 task  
 
